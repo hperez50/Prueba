@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.pruba.controlador;
+package com.prueba.controlador;
 
 import com.prueba.dao.SociosDao;
 import com.prueba.modelo.Creditos;
